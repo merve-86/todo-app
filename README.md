@@ -1,4 +1,7 @@
 https://todo-app-merve.netlify.app
+![todo-app-merve](https://github.com/merve-86/todo-app/assets/154313391/bf5d4d0c-40e6-4d30-ac62-386fb401cffd)
+
+
 
 # Getting Started with Create React App
 
